@@ -8,9 +8,10 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sujitsingh521&theme=algolia&row=1&column=3&margin-w=15&margin-h=15" alt="sujitsingh521" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sujitsingh521&theme=algolia&row=1&column=3&margin-w=15&margin-h=15&no-frame=true" alt="sujitsingh521" />
   </a>
 </p>
+
 
 
 <p align="center"> <img src="https://camo.githubusercontent.com/d47ef6d432881a45081e20f6968fb1b4a1c21e39e5ae89d139a9de02dbd71b65/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31303030783330302e706e673f746578743d57656c636f6d652b746f2b53756a69742b53696e676827732b4769744875622b50726f66696c65" alt="Banner Image"> </p>
