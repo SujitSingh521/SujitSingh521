@@ -6,11 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitsingh521&label=Profile%20views&color=0e75b6&style=flat" alt="sujitsingh521" /> </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&row=1&column=3&margin-w=15&margin-h=15&no-frame=true&style=rounded" alt="Your GitHub Trophies" />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="center"> <img src="https://camo.githubusercontent.com/d47ef6d432881a45081e20f6968fb1b4a1c21e39e5ae89d139a9de02dbd71b65/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31303030783330302e706e673f746578743d57656c636f6d652b746f2b53756a69742b53696e676827732b4769744875622b50726f66696c65" alt="Banner Image"> </p>
