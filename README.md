@@ -8,7 +8,7 @@
 
 <h3 align="left" style="font-family: Arial, sans-serif; color: #4CAF50;">About Me:</h3>
 <p align="left" style="font-family: Arial, sans-serif; font-size: 16px; color: #333;"> 
-I am a Full Stack Web Developer with <strong>2 years of experience</strong>, specializing in creating dynamic, user-friendly, and scalable web applications. My expertise spans both frontend and backend development, ensuring high-quality solutions tailored to meet user needs. I am passionate about delivering creative, efficient code and continuously learning new technologies.
+I am a Full Stack Web Developer with <strong>2 years of experience</strong>, specializing in creating dynamic, user-friendly, and scalable web applications. My expertise spans both frontend and backend development, ensuring high-quality solutions tailored to meet user needs. I am passionate about delivering creative, efficient code and continuously learning new technologies to stay updated with industry trends.
 </p>
 
 <h3 align="left" style="font-family: Arial, sans-serif; color: #4CAF50;">🌱 Currently Learning:</h3>
@@ -35,7 +35,7 @@ I am a Full Stack Web Developer with <strong>2 years of experience</strong>, spe
 
 <h3 align="left" style="font-family: Arial, sans-serif; color: #4CAF50;">💼 Professional Summary:</h3>
 <p align="left" style="font-family: Arial, sans-serif; font-size: 16px; color: #333;">
-Currently working as a Junior Full Stack Developer, I utilize technologies like React.js, Node.js, MongoDB, and Express.js to create high-performing web solutions. My journey is driven by a dedication to learning and implementing modern web development practices.
+Currently working as a Junior Full Stack Developer, I have hands-on experience with technologies such as React.js, Node.js, MongoDB, and Express.js to create high-performing web solutions. I am dedicated to solving complex problems and continuously refining my skills to deliver impactful projects. My goal is to create robust, innovative applications that provide value to businesses and users alike.
 </p>
 
 Languages and Tools:
