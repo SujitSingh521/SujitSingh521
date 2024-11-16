@@ -66,7 +66,7 @@ Hi there 👋
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/>
   
   <!-- NoSQL (MongoDB as the representative for NoSQL) -->
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="NoSQL" width="48" height="48"/>
+ 
 </div>
 
 
