@@ -1,10 +1,14 @@
 ## Hi there 👋
 
-
 <h1 align="center">Hi 👋, I'm Sujit Singh</h1>
-<h3 align="center">from India</h3>
+<h3 align="center">A Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitsingh521&label=Profile%20views&color=0e75b6&style=flat" alt="sujitsingh521" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujitsingh521&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/sujitsingh521?label=Followers&style=social" alt="GitHub followers" />
+</p>
+
+---
 
 ### 🚀 About Me:
 - 🌐 I’m a **Full Stack Developer** specializing in **React.js**, **Node.js**, **MongoDB**, and **Express.js**.
