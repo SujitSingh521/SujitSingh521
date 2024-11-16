@@ -63,7 +63,7 @@ Hi there 👋
 
 ### 🌍 GitHub Contribution Graph:
 <div align="center">
-  <img src="https://files.oaiusercontent.com/file-IJAez9Vz2r8tkfzMeDePyBve?se=2024-11-16T04%3A32%3A51Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0cee0668-d343-48ba-a0ba-e317b1bf4153.webp&sig=u3nZqtMkX2DgiAoA7HkR32RpR%2BqWW%2BCYEDo6SpFcnH4%3D" alt="GitHub Contribution Graph" style="width: 500px; height: 400px;" />
+  <img src="https://files.oaiusercontent.com/file-IJAez9Vz2r8tkfzMeDePyBve?se=2024-11-16T04%3A32%3A51Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0cee0668-d343-48ba-a0ba-e317b1bf4153.webp&sig=u3nZqtMkX2DgiAoA7HkR32RpR%2BqWW%2BCYEDo6SpFcnH4%3D" alt="GitHub Contribution Graph" style="width: 600px; height: 400px;" />
 </div>
 
 
