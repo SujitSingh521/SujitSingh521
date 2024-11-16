@@ -6,39 +6,78 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitsingh521&label=Profile%20views&color=0e75b6&style=flat" alt="sujitsingh521" /> </p>
 
-<h3 align="left" style="font-family: Arial, sans-serif; color: #4CAF50;">About Me:</h3>
-<p align="left" style="font-family: Arial, sans-serif; font-size: 16px; color: #333;"> 
-I am a Full Stack Web Developer with <strong>2 years of experience</strong>, specializing in creating dynamic, user-friendly, and scalable web applications. My expertise spans both frontend and backend development, ensuring high-quality solutions tailored to meet user needs. I am passionate about delivering creative, efficient code and continuously learning new technologies to stay updated with industry trends.
+### 🚀 About Me:
+- 🌐 I’m a **Full Stack Developer** specializing in **React.js**, **Node.js**, **MongoDB**, and **Express.js**.
+- 👨‍💻 I have **2 years of experience** building scalable, user-friendly web applications.
+- 💡 Passionate about learning and implementing modern technologies like **Cloud Computing** and **AI integrations**.
+- 🎯 Currently exploring **Serverless Architecture** and **Machine Learning**.
+
+---
+
+### 🌱 Currently Learning:
+- **Advanced Full Stack Development**  
+- **Cloud Computing and Serverless Architecture**  
+- **Machine Learning for Web Applications**  
+
+---
+
+### 🔗 Connect with Me:
+<p align="center">
+  <a href="https://github.com/sujitsingh521" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sujitsingh521/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sujitsingh521@example.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left" style="font-family: Arial, sans-serif; color: #4CAF50;">🌱 Currently Learning:</h3>
-<ul style="font-family: Arial, sans-serif; font-size: 16px; color: #333;">
-  <li><img src="https://img.icons8.com/color/48/000000/source-code.png" height="24" style="vertical-align: middle;"/> Advanced Full Stack Development</li>
-  <li><img src="https://img.icons8.com/color/48/000000/cloud.png" height="24" style="vertical-align: middle;"/> Cloud Computing and Serverless Architecture</li>
-  <li><img src="https://img.icons8.com/color/48/000000/machine-learning.png" height="24" style="vertical-align: middle;"/> Machine Learning Integrations for Web Applications</li>
-</ul>
+---
 
-<h3 align="left" style="font-family: Arial, sans-serif; color: #4CAF50;">🔗 Connect with Me:</h3>
-<p align="left" style="font-family: Arial, sans-serif; font-size: 16px; color: #333;">
-  <a href="https://github.com/sujitsingh521" target="_blank" style="text-decoration: none; color: #000;">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" height="30" style="vertical-align: middle;"/> GitHub
-  </a>
-  <br>
-  <a href="https://www.linkedin.com/in/sujitsingh521/" target="_blank" style="text-decoration: none; color: #0077B5;">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30" style="vertical-align: middle;"/> LinkedIn
-  </a>
-  <br>
-  <a href="mailto:sujitsingh521@example.com" target="_blank" style="text-decoration: none; color: #D14836;">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" height="30" style="vertical-align: middle;"/> Email
+### 🛠️ Languages and Tools:
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+</div>
+
+---
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitsingh521&layout=compact&theme=radical" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sujitsingh521&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujitsingh521&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+### ✍️ Random Dev Quote:
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
+
+---
+
+### 🎯 Fun Facts:
+- 🔭 I love solving real-world problems through code.  
+- 🎨 Outside of coding, I enjoy sketching and photography.  
+
+---
+
+### 💖 Support Me:
+If you find my work interesting, feel free to ⭐️ my repositories or buy me a coffee!  
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sujitsingh" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/100/000000/coffee.png" height="50" alt="Buy Me a Coffee" />
   </a>
 </p>
-
-<h3 align="left" style="font-family: Arial, sans-serif; color: #4CAF50;">💼 Professional Summary:</h3>
-<p align="left" style="font-family: Arial, sans-serif; font-size: 16px; color: #333;">
-Currently working as a Junior Full Stack Developer, I have hands-on experience with technologies such as React.js, Node.js, MongoDB, and Express.js to create high-performing web solutions. I am dedicated to solving complex problems and continuously refining my skills to deliver impactful projects. My goal is to create robust, innovative applications that provide value to businesses and users alike.
-</p>
-
-Languages and Tools:
-<div align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" /> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Language" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" /> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" /> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" /> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" /> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" /> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" /> </a> </div>
-📊 GitHub Stats:
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitsingh521&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> <br><br> <img src="https://github-readme-stats.vercel.app/api?username=sujitsingh521&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujitsingh521&theme=radical" alt="GitHub Streak" /> </div>
