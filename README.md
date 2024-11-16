@@ -66,10 +66,7 @@ Hi there 👋
   
   <!-- Other Tools -->
   <img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/jest.png" alt="Jest" width="48" height="48"/>
+ 
 </div>
 
 <br>
