@@ -58,14 +58,12 @@ Hi there 👋
   
   <!-- Databases -->
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="48" height="48"/>
   
   <!-- Version Control -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub" width="48" height="48"/>
   
-  <!-- Other Tools -->
-  <img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack" width="48" height="48"/>
+
  
 </div>
 
