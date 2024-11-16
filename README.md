@@ -24,13 +24,13 @@ Hi there 👋
 ### 🔗 Connect with Me:
 <p align="center">
   <a href="https://github.com/sujitsingh521" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" />
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="30" height="30"/>
   </a>
   <a href="https://www.linkedin.com/in/sujitsingh521/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/>
   </a>
   <a href="mailto:sujitsingh521@example.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="48" height="48"/>
   </a>
 </p>
 
@@ -38,28 +38,27 @@ Hi there 👋
 
 ### 🛠️ Languages and Tools:
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" />
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="48" height="48"/>
 </div>
 
 ---
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitsingh521&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitsingh521&layout=compact&theme=radical" alt="Top Languages" width="400" height="200"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sujitsingh521&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujitsingh521&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="200"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujitsingh521&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujitsingh521&theme=radical" alt="GitHub Streak" width="400" height="200"/>
 </div>
 
----
 
 ### 🌍 GitHub Contribution Graph:
 <div align="center">
