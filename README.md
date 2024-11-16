@@ -24,17 +24,16 @@ Hi there 👋
 ### 🔗 Connect with Me:
 <p align="center">
   <a href="https://github.com/sujitsingh521" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="30" height="30"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/sujitsingh521/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:sujitsingh521@example.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
 
----
 
 ### 🛠️ Languages and Tools:
 <div align="center">
