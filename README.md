@@ -6,9 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitsingh521&label=Profile%20views&color=0e75b6&style=flat" alt="sujitsingh521" /> </p>
 
+About Me
+I am a Full Stack Web Developer with 2 years of experience in building dynamic, user-friendly, and scalable web applications. I specialize in both frontend and backend development, crafting efficient and creative solutions tailored to meet user needs. With a solid foundation in modern web technologies, I am passionate about delivering high-quality code and innovative designs.
 
-<h3 align="left">About Me:</h3> <p> I'm passionate about web development, crafting both frontend and backend solutions with precision and creativity. My expertise lies in working with modern web technologies to build user-friendly, scalable applications. </p> <h3 align="left">🌱 Currently learning:</h3> - Advanced Full Stack Development - Cloud Computing and Serverless Architecture - Machine Learning Integrations for Web Applications
-<h3 align="left">🔗 Connect with me:</h3> <p align="left"> <a href="https://github.com/sujitsingh521" target="_blank"> <img align="center" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/sujitsingh521/" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:sujitsingh521@example.com" target="_blank"> <img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
+🌱 Currently Learning
+Advanced Full Stack Development
+Cloud Computing and Serverless Architecture
+Machine Learning Integrations for Web Applications
+🔗 Connect with Me
+<div align="left"> <a href="https://github.com/sujitsingh521" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/sujitsingh521/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:sujitsingh521@example.com" target="_blank"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </div>
+💼 Professional Summary
+I am currently working as a Junior Full Stack Developer, where I apply my expertise in technologies like React.js, Node.js, MongoDB, and Express.js to design and implement high-performing web solutions. My journey in web development has been driven by a continuous desire to learn and grow, ensuring my skills stay aligned with the latest trends in technology.
 🚀 Languages and Tools:
 
 Languages and Tools:
