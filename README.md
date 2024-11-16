@@ -42,16 +42,34 @@ Hi there 👋
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages, Tools, Frameworks, and Libraries:
 <div align="center">
+  <!-- Languages -->
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
+  
+  <!-- Frameworks -->
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/react.png" alt="React" width="48" height="48"/>
+  
+  <!-- Databases -->
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="48" height="48"/>
+  
+  <!-- Version Control -->
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub" width="48" height="48"/>
+  
+  <!-- Other Tools -->
+  <img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/jest.png" alt="Jest" width="48" height="48"/>
 </div>
 
 <br>
