@@ -63,7 +63,11 @@
 
 🌍 GitHub Contribution Graph:
 <div align="center">
-  <img src="[https://files.oaiusercontent.com/file-IJAez9Vz2r8tkfzMeDePyBve?se=2024-11-16T04%3A32%3A51Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0cee0668-d343-48ba-a0ba-e317b1bf4153.webp&sig=u3nZqtMkX2DgiAoA7HkR32RpR%2BqWW%2BCYEDo6SpFcnH4%3D](https://media.licdn.com/dms/image/v2/D4D12AQE8PsLGNbkE4g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1714048495660?e=2147483647&v=beta&t=MaqanpQms6Q0PLkTf5cwRiwow7ARtnlrnb3KgiQmUJk)" alt="GitHub Contribution Graph" style="width: 1000px; height: 400px;" />
+  <img src="🌍 GitHub Contribution Graph:
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujitsingh521&theme=radical" alt="GitHub Contribution Graph" style="width: 100%; height: auto;" />
+</div>
+" alt="GitHub Contribution Graph" style="width: 1000px; height: 400px;" />
 </div>
 
 ✍️ Random Dev Quote:
