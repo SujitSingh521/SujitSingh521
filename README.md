@@ -1,5 +1,11 @@
 <h1 align="center" style="color: #3498db;">👋 Hi, I'm <span style="color: #e74c3c;">Sujit Singh</span></h1>
+
+<div align="center">
+  <img src="PROFILE_IMAGE_URL" alt="Sujit Singh" width="150" height="150" style="border-radius: 50%;"/>
+</div>
+
 <h3 align="center" style="color: #2ecc71;">A Full Stack Developer from India 🌏</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sujitsingh521&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -30,25 +36,16 @@
 
 🛠️ Languages, Tools, Frameworks, and Libraries:
 <div align="center">
-  <!-- Languages -->
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
-  
-  <!-- Frameworks -->
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="48" height="48"/>
-  
-  <!-- Databases -->
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/>
-  
-  <!-- Version Control -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub" width="48" height="48"/>
-  
-  <!-- Tools and Platforms -->
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/>
 </div>
 
@@ -63,11 +60,8 @@
 
 🌍 GitHub Contribution Graph:
 <div align="center">
-  <img src="🌍 GitHub Contribution Graph:
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujitsingh521&theme=radical" alt="GitHub Contribution Graph" style="width: 100%; height: auto;" />
 </div>
-
 
 ✍️ Random Dev Quote:
 <div align="center">
