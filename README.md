@@ -64,7 +64,7 @@
 
 🌍 GitHub Contribution Graph:
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujitsingh521&theme=radical" alt="GitHub Contribution Graph" style="width: 100%; height: auto;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujitsingh521&theme=radical" alt="GitHub Contribution Graph" style="width: 100%; height: auto; background:green;" />
 </div>
 
 ✍️ Random Dev Quote:
