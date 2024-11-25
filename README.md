@@ -67,10 +67,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujitsingh521&theme=radical" alt="GitHub Contribution Graph" style="width: 100%; height: auto; background:green;" />
 </div>
 
-✍️ Random Dev Quote:
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</div>
+
 
 🎯 Fun Facts:
 - 🔭 I love solving real-world problems through code.
