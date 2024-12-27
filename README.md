@@ -57,8 +57,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitsingh521&layout=compact&theme=radical" alt="Top Languages" width="400" height="200"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sujitsingh521&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="200"/>
-  <br><br>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujitsingh521&theme=radical" alt="GitHub Streak" width="400" height="200"/>
 </div>
 
