@@ -66,7 +66,7 @@
 </div>
 
 <!-- Alternate Graph without Date Range -->
-<h2 align="center">🚀 My GitHub Journey</h2>
+<h2 align="left">🚀 My GitHub Journey</h2>
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=sujitsingh521&theme=react-dark&area=true&hide_border=true" 
