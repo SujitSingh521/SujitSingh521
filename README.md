@@ -46,9 +46,9 @@
   <a href="#"><img src="https://img.icons8.com/color/60/html-5.png" alt="HTML5" title="HTML5" style="margin:15px;" /></a>
   <a href="#"><img src="https://img.icons8.com/color/60/css3.png" alt="CSS3" title="CSS3" style="margin:15px;" /></a>
   <a href="#"><img src="https://img.icons8.com/color/60/javascript.png" alt="JavaScript" title="JavaScript" style="margin:15px;" /></a>
-  <a href="#"><img src="https://img.icons8.com/ultraviolet/60/react.png" alt="React.js" title="React.js" style="margin:15px;" /></a>
-  <a href="#"><img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js" title="Node.js" style="margin:15px;" /></a>
-  <a href="#"><img src="https://img.icons8.com/ios/60/000000/express-js.png" alt="Express.js" title="Express.js" style="margin:15px; filter: drop-shadow(0 0 6px yellow);" /></a>
+  <a href="#"><img src="https://img.icons8.com/ultraviolet/60/react.png" alt="React.js" title="React.js" style="margin:15px;" /></a>&nbsp
+  <a href="#"><img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js" title="Node.js" style="margin:15px;" /></a>&nbsp
+  <a href="#"><img src="https://img.icons8.com/ios/60/000000/express-js.png" alt="Express.js" title="Express.js" style="margin:15px; filter: drop-shadow(0 0 6px yellow);" /></a>&nbsp
   <a href="#"><img src="https://img.icons8.com/color/60/mongodb.png" alt="MongoDB" title="MongoDB" style="margin:15px;" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" alt="Postman" title="Postman" width="60" height="60" style="margin:15px; filter: drop-shadow(0 0 6px orange);" /></a>
   <a href="#"><img src="https://img.icons8.com/color/60/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" style="margin:15px;" /></a>
