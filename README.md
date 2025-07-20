@@ -3,10 +3,6 @@
 
 <h3 align="center" style="color: #2ecc71;">A Full Stack Developer from India 🌏</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujitsingh521&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D12AQE8PsLGNbkE4g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1714048495660?e=2147483647&v=beta&t=MaqanpQms6Q0PLkTf5cwRiwow7ARtnlrnb3KgiQmUJk" alt="Sujit Singh Banner" style="width:100%; max-width:800px; border-radius: 10px; height:600px;" />
