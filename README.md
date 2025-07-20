@@ -65,18 +65,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujitsingh521&theme=radical" alt="GitHub Streak" width="400" height="200"/>
 </div>
 
-<!-- 🌍 Sujit Singh's GitHub Contribution Graph (2023–2025) -->
-<h2 align="center" style="color:#0ef; font-family: 'Segoe UI', Tahoma, sans-serif;">
-  🚀 My GitHub Journey: 2023 - 2025
-</h2>
-
+<!-- Alternate Graph without Date Range -->
+<h2 align="center">🚀 My GitHub Journey</h2>
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sujitsingh521&theme=react-dark&area=true&hide_border=true&line=00c6ff&point=ffb347&color=0ef&from=2023-01-01&to=2025-07-20" 
-    alt="Sujit Singh's GitHub Contribution Graph 2023 to 2025" 
-    style="max-width: 90%; border-radius: 15px; box-shadow: 0 4px 25px rgba(0, 238, 255, 0.3);" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sujitsingh521&theme=react-dark&area=true&hide_border=true" 
+    alt="GitHub Activity Graph" 
+    style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);" 
   />
 </p>
+
 
 
 
