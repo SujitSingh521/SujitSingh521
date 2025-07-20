@@ -56,7 +56,7 @@
        title="Postman"
        width="60"
        height="60"
-       style="margin: 15px; filter: drop-shadow(0 0 6px orange);" />
+       style="filter: drop-shadow(0 0 6px orange);" />
 </a>
 
   <a href="#"><img src="https://img.icons8.com/color/60/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" style="margin: 15px;" /></a>
