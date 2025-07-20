@@ -65,11 +65,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujitsingh521&theme=radical" alt="GitHub Streak" width="400" height="200"/>
 </div>
 
-<!-- 🌍 GitHub Contribution Graph -->
-<h3 align="center">🌍 My GitHub Contribution Graph</h3>
+<!-- 🌟 Advanced GitHub Contribution Graph -->
+<h2 align="center" style="color: #F7971E; font-size: 30px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  🌍 Sujit Singh's Contribution Heatmap
+</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujitsingh521&theme=radical" alt="GitHub Contribution Graph" style="max-width: 100%; border-radius: 10px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujitsingh521&theme=react-dark&area=true&hide_border=true&line=00c6ff&point=ffb347" alt="GitHub Activity Graph" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 198, 255, 0.3); max-width: 100%;" 
+  />
 </p>
+
 
 
 🎯 Fun Facts:
