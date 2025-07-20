@@ -21,9 +21,11 @@
 - 💻 Passionate about coding, problem-solving, and building real-world applications from scratch.
 
 🌱 Currently Learning:
-- Advanced Full Stack Development 🖥️
-- Cloud Computing and Serverless Architecture ☁️
-- Machine Learning for Web Applications 🤖
+- 🧠 Deepening knowledge in Frontend frameworks like React.js and Tailwind CSS
+- ⚙️ Working on Backend development using Node.js and Express.js
+- 🗃️ Mastering Database integration with MongoDB and Mongoose
+- 🔐 Learning User Authentication & Role-Based Authorization using JWT and Bcrypt
+- 🚀 Practicing Full-stack project deployment on platforms like Netlify, Vercel, and Render
 
 🔗 Connect with Me:
 <p align="center">
