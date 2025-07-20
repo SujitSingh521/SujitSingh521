@@ -15,7 +15,7 @@
 
 
 🚀 About Me:
-- 🌐 I’m a Full Stack Developer specializing in React.js, Node.js, MongoDB, and Express.js.
+- 🌐 🌐 I’m a Full Stack Developer specializing in React.js, Node.js, MongoDB, and Express.js (MERN Stack).
 - 👨‍💻 I have 2 years of experience building scalable, user-friendly web applications.
 - 💡 Passionate about learning and implementing modern technologies like Cloud Computing and AI integrations.
 - 🎯 Currently exploring Serverless Architecture and Machine Learning.
