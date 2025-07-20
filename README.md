@@ -42,18 +42,45 @@
 
 🛠️ Languages, Tools, Frameworks, and Libraries:
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/>
+
+  <!-- CSS -->
+  <img src="https://img.icons8.com/color-glass/48/css3.png" alt="CSS3" title="CSS3" style="filter: drop-shadow(0 0 5px #2965f1);"/>
+
+  <!-- Express.js -->
+  <img src="https://img.icons8.com/ios/48/express-js.png" alt="Express.js" title="Express.js" style="filter: drop-shadow(0 0 5px #444444);"/>
+
+  <!-- Git -->
+  <img src="https://img.icons8.com/color-glass/48/git.png" alt="Git" title="Git" style="filter: drop-shadow(0 0 5px #F1502F);"/>
+
+  <!-- GitHub -->
+  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" title="GitHub" style="filter: drop-shadow(0 0 5px #000000);"/>
+
+  <!-- HTML -->
+  <img src="https://img.icons8.com/color-glass/48/html-5.png" alt="HTML5" title="HTML5" style="filter: drop-shadow(0 0 5px #FF6D00);"/>
+
+  <!-- JavaScript -->
+  <img src="https://img.icons8.com/color-glass/48/javascript.png" alt="JavaScript" title="JavaScript" style="filter: drop-shadow(0 0 5px #FFD600);"/>
+
+  <!-- MongoDB -->
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB" title="MongoDB" style="filter: drop-shadow(0 0 5px #47A248);"/>
+
+  <!-- Node.js -->
+  <img src="https://img.icons8.com/color-glass/48/nodejs.png" alt="Node.js" title="Node.js" style="filter: drop-shadow(0 0 5px #8CC84B);"/>
+
+  <!-- Postman -->
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" title="Postman" style="filter: drop-shadow(0 0 5px #FF6C37);"/>
+
+  <!-- React -->
+  <img src="https://img.icons8.com/ultraviolet/48/react.png" alt="React.js" title="React.js" style="filter: drop-shadow(0 0 5px #61DBFB);"/>
+
+  <!-- Tailwind CSS -->
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" style="filter: drop-shadow(0 0 5px #38BDF8);"/>
+
+  <!-- VS Code -->
+  <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code" style="filter: drop-shadow(0 0 5px #007ACC);"/>
+
 </div>
+
 
 📊 GitHub Stats:
 <div align="center">
