@@ -47,26 +47,21 @@
   <a href="#"><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript" /></a>
   <a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React.js" title="React.js" /></a>
   <a href="#"><img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" title="Node.js" /></a>
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" title="Express.js" width="48" height="48"/></a>
+  
+  <!-- Express.js with Yellow Glow -->
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" title="Express.js" width="48" height="48" style="filter: drop-shadow(0 0 8px yellow);"/></a>
+  
   <a href="#"><img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB" /></a>
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/postman-icon.svg" alt="Postman" title="Postman" width="48" height="48"/></a>
+  
+  <!-- Postman with Orange Glow -->
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/postman-icon.svg" alt="Postman" title="Postman" width="48" height="48" style="filter: drop-shadow(0 0 8px orange);"/></a>
+  
   <a href="#"><img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" /></a>
   <a href="#"><img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" /></a>
   <a href="#"><img src="https://img.icons8.com/glyph-neue/48/github.png" alt="GitHub" title="GitHub" /></a>
   <a href="#"><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code" /></a>
 </p>
 
-<style>
-  a img {
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-    margin: 10px;
-    border-radius: 8px;
-  }
-  a img:hover {
-    transform: scale(1.2);
-    box-shadow: 0 0 15px rgba(0, 255, 255, 0.7);
-  }
-</style>
 
 📊 GitHub Stats:
 <div align="center">
