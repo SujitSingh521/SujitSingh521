@@ -42,7 +42,7 @@
 
 <h3 align="left">🛠️ Languages, Tools, Frameworks, and Libraries</h3>
 
-<p align="center">
+<p align="left">
   <a href="#"><img src="https://img.icons8.com/color/60/html-5--v1.png" alt="HTML" title="HTML5" style="margin: 15px;" /></a>
   <a href="#"><img src="https://img.icons8.com/color/60/css3.png" alt="CSS" title="CSS3" style="margin: 15px;" /></a>
   <a href="#"><img src="https://img.icons8.com/color/60/javascript--v1.png" alt="JavaScript" title="JavaScript" style="margin: 15px;" /></a>
