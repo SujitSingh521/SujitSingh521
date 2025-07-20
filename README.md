@@ -65,22 +65,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujitsingh521&theme=radical" alt="GitHub Streak" width="400" height="200"/>
 </div>
 
-🌍 GitHub Contribution Graph:
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujitsingh521&theme=radical" alt="GitHub Contribution Graph" style="width: 100%; height: auto; background:green;" />
-</div>
-
+<!-- 🌍 GitHub Contribution Graph -->
+<h3 align="center">🌍 My GitHub Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujitsingh521&theme=radical" alt="GitHub Contribution Graph" style="max-width: 100%; border-radius: 10px;" />
+</p>
 
 
 🎯 Fun Facts:
 - 🔭 I love solving real-world problems through code.
 - 🎨 Outside of coding, I enjoy sketching and photography. 📷
 
-💖 Support Me:
-If you find my work interesting, feel free to ⭐️ my repositories or buy me a coffee!
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/sujitsingh" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/100/000000/coffee.png" height="50" alt="Buy Me a Coffee" />
-  </a>
-</p>
