@@ -40,43 +40,20 @@
   </a>
 </p>
 
-<h3 align="center">🛠️ Languages, Tools, Frameworks, and Libraries</h3>
+<h3 align="left">🛠️ Languages, Tools, Frameworks, and Libraries</h3>
 
-<p align="center">
-  <!-- HTML -->
+<p align="left">
   <a href="#"><img src="https://img.icons8.com/color/60/html-5.png" alt="HTML5" title="HTML5" style="margin:15px;" /></a>
-
-  <!-- CSS -->
   <a href="#"><img src="https://img.icons8.com/color/60/css3.png" alt="CSS3" title="CSS3" style="margin:15px;" /></a>
-
-  <!-- JavaScript -->
   <a href="#"><img src="https://img.icons8.com/color/60/javascript.png" alt="JavaScript" title="JavaScript" style="margin:15px;" /></a>
-
-  <!-- React -->
   <a href="#"><img src="https://img.icons8.com/ultraviolet/60/react.png" alt="React.js" title="React.js" style="margin:15px;" /></a>
-
-  <!-- Node.js -->
   <a href="#"><img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js" title="Node.js" style="margin:15px;" /></a>
-
-  <!-- ✅ Express.js icon (white logo, works on dark mode) -->
   <a href="#"><img src="https://img.icons8.com/ios/60/000000/express-js.png" alt="Express.js" title="Express.js" style="margin:15px; filter: drop-shadow(0 0 6px yellow);" /></a>
-
-  <!-- MongoDB -->
   <a href="#"><img src="https://img.icons8.com/color/60/mongodb.png" alt="MongoDB" title="MongoDB" style="margin:15px;" /></a>
-
-  <!-- ✅ Postman icon from GitHub CDN (orange) -->
   <a href="#"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" alt="Postman" title="Postman" width="60" height="60" style="margin:15px; filter: drop-shadow(0 0 6px orange);" /></a>
-
-  <!-- Tailwind CSS -->
   <a href="#"><img src="https://img.icons8.com/color/60/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" style="margin:15px;" /></a>
-
-  <!-- Git -->
   <a href="#"><img src="https://img.icons8.com/color/60/git.png" alt="Git" title="Git" style="margin:15px;" /></a>
-
-  <!-- GitHub -->
   <a href="#"><img src="https://img.icons8.com/glyph-neue/60/github.png" alt="GitHub" title="GitHub" style="margin:15px;" /></a>
-
-  <!-- VS Code -->
   <a href="#"><img src="https://img.icons8.com/fluency/60/visual-studio-code-2019.png" alt="VS Code" title="VS Code" style="margin:15px;" /></a>
 </p>
 
