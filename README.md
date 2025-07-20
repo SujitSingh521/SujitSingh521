@@ -50,8 +50,7 @@
   <a href="#"><img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js" title="Node.js" style="margin: 15px;" /></a>
   <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" title="Express.js" width="60" height="60" style="margin: 15px; filter: drop-shadow(0 0 6px yellow);" /></a>
   <a href="#"><img src="https://img.icons8.com/color/60/mongodb.png" alt="MongoDB" title="MongoDB" style="margin: 15px;" /></a>
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/postman-icon.svg" alt="Postman" title="Postman" width="60" height="60" style="margin: 15px; filter: drop-shadow(0 0 6px orange);" /></a>
-
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/postman-icon.svg" alt="Postman" title="Postman" width="60" height="60" style="margin: 15px; filter:drop-shadow(0 0 6px orange);" /></a>
   <a href="#"><img src="https://img.icons8.com/color/60/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" style="margin: 15px;" /></a>
   <a href="#"><img src="https://img.icons8.com/color/60/git.png" alt="Git" title="Git" style="margin: 15px;" /></a>
   <a href="#"><img src="https://img.icons8.com/glyph-neue/60/github.png" alt="GitHub" title="GitHub" style="margin: 15px;" /></a>
