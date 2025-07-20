@@ -40,23 +40,25 @@
   </a>
 </p>
 
-<h3 align="left">🛠️ Languages, Tools, Frameworks, and Libraries</h3>
+<h3 align="center">🛠️ Languages, Tools, Frameworks, and Libraries</h3>
 
-<p align="left">
-  <a href="#"><img src="https://img.icons8.com/color/60/html-5--v1.png" alt="HTML" title="HTML5" style="margin: 15px;" /></a>
-  <a href="#"><img src="https://img.icons8.com/color/60/css3.png" alt="CSS" title="CSS3" style="margin: 15px;" /></a>
-  <a href="#"><img src="https://img.icons8.com/color/60/javascript--v1.png" alt="JavaScript" title="JavaScript" style="margin: 15px;" /></a>
-  <a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React.js" title="React.js" style="margin: 15px;" /></a>
-  <a href="#"><img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js" title="Node.js" style="margin: 15px;" /></a>
-<a href="#">
-  <img src="https://img.icons8.com/ios-filled/60/FFD700/express-js.png"alt="Express.js" title="Express.js" width="60" height="60" style="margin: 15px; filter: drop-shadow(0 0 6px yellow);" /></a>
-  <a href="#"><img src="https://img.icons8.com/color/60/mongodb.png" alt="MongoDB" title="MongoDB" style="margin: 15px;" /></a>
-<a href="#"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" title="Postman" width="60" height="60" style="margin: 15px; filter: drop-shadow(0 0 6px orange);" /></a>
-  <a href="#"><img src="https://img.icons8.com/color/60/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" style="margin: 15px;" /></a>
-  <a href="#"><img src="https://img.icons8.com/color/60/git.png" alt="Git" title="Git" style="margin: 15px;" /></a>
-  <a href="#"><img src="https://img.icons8.com/glyph-neue/60/github.png" alt="GitHub" title="GitHub" style="margin: 15px;" /></a>
-  <a href="#"><img src="https://img.icons8.com/fluency/60/visual-studio-code-2019.png" alt="VS Code" title="VS Code" style="margin: 15px;" /></a>
+<p align="center">
+  <a href="#"><img src="https://img.icons8.com/color/60/html-5.png" alt="HTML5" title="HTML5" style="margin:15px;" /></a>
+  <a href="#"><img src="https://img.icons8.com/color/60/css3.png" alt="CSS3" title="CSS3" style="margin:15px;" /></a>
+  <a href="#"><img src="https://img.icons8.com/color/60/javascript.png" alt="JavaScript" title="JavaScript" style="margin:15px;" /></a>
+  <a href="#"><img src="https://img.icons8.com/ultraviolet/60/react.png" alt="React.js" title="React.js" style="margin:15px;" /></a>
+  <a href="#"><img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js" title="Node.js" style="margin:15px;" /></a>
+  <!-- ✅ Express.js colored icon from Icons8 with yellow glow -->
+  <a href="#"><img src="https://img.icons8.com/ios-filled/60/ffd700/express-js.png" alt="Express.js" title="Express.js" style="margin:15px; filter:drop-shadow(0 0 6px yellow);" /></a>
+  <a href="#"><img src="https://img.icons8.com/color/60/mongodb.png" alt="MongoDB" title="MongoDB" style="margin:15px;" /></a>
+  <!-- ✅ Postman colored icon from Icons8 with orange glow -->
+  <a href="#"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/external-postman-icon-shadow-tal-revivo.png" alt="Postman" title="Postman" style="margin:15px; filter:drop-shadow(0 0 6px orange);" /></a>
+  <a href="#"><img src="https://img.icons8.com/color/60/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" style="margin:15px;" /></a>
+  <a href="#"><img src="https://img.icons8.com/color/60/git.png" alt="Git" title="Git" style="margin:15px;" /></a>
+  <a href="#"><img src="https://img.icons8.com/glyph-neue/60/github.png" alt="GitHub" title="GitHub" style="margin:15px;" /></a>
+  <a href="#"><img src="https://img.icons8.com/fluency/60/visual-studio-code-2019.png" alt="VS Code" title="VS Code" style="margin:15px;" /></a>
 </p>
+
 
 
 📊 GitHub Stats:
