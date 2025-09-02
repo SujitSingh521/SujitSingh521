@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #3498db;">👋 Hi, I'm <span style="color: #e74c3c;">Sujit Kumar Singh</span></h1>
+<h1 align="center" style="color: #3498db;">👋 Hi, I'm <span style="color: #e74c3c;">SujitKumar Singh</span></h1>
 
 
 <h3 align="center" style="color: #2ecc71;">A Full Stack Developer from India 🌏</h3>
