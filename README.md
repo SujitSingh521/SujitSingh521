@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB+%7C+Next.js;Building+Scalable+Web+Applications"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm <span style="color:#e74c3c;">Sujit Kumar Singh</span></h1>
 
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | React.js | Node.js | MongoDB | Next.js</h3>
@@ -99,6 +103,7 @@ A **production-level SaaS CRM platform** designed for managing leads, sales team
 <img src="https://img.icons8.com/color/60/visual-studio-code-2019.png" title="VS Code"/>
 
 </p>
+
 ---
 
 # 📊 GitHub Stats
@@ -120,6 +125,32 @@ A **production-level SaaS CRM platform** designed for managing leads, sales team
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujitsingh521&theme=react-dark&area=true&hide_border=true"/>
 </p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sujitsingh521&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+# 🚀 Currently Working On
+
+• Building scalable **MERN Stack applications**  
+• Improving backend architecture and API performance  
+• Learning advanced **system design concepts**  
+• Preparing for **Full Stack Developer interviews**
+
+---
+
+# 📚 Currently Learning
+
+• Advanced **Next.js**  
+• Backend **performance optimization**  
+• **Scalable API architecture**  
+• Modern **cloud deployment practices**
 
 ---
 
@@ -156,3 +187,11 @@ A **production-level SaaS CRM platform** designed for managing leads, sales team
 🔭 I enjoy solving **real-world problems through code**
 
 🎨 I enjoy **sketching and photography**
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
