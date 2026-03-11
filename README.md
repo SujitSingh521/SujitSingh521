@@ -128,32 +128,6 @@ A **production-level SaaS CRM platform** designed for managing leads, sales team
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sujitsingh521&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-# 🚀 Currently Working On
-
-• Building scalable **MERN Stack applications**  
-• Improving backend architecture and API performance  
-• Learning advanced **system design concepts**  
-• Preparing for **Full Stack Developer interviews**
-
----
-
-# 📚 Currently Learning
-
-• Advanced **Next.js**  
-• Backend **performance optimization**  
-• **Scalable API architecture**  
-• Modern **cloud deployment practices**
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
