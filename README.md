@@ -94,7 +94,7 @@ A **production-level SaaS CRM platform** designed for managing leads, sales team
 <img src="https://img.icons8.com/color/60/tailwindcss.png" title="Tailwind CSS"/>
 <img src="https://img.icons8.com/color/60/git.png" title="Git"/>
 <img src="https://img.icons8.com/glyph-neue/60/github.png" title="GitHub"/>
-<img src="https://img.icons8.com/color/60/postman-api.png" title="Postman"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" title="Postman"/>
 <img src="https://img.icons8.com/color/60/visual-studio-code-2019.png" title="VS Code"/>
 
 </p>
