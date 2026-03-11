@@ -88,6 +88,7 @@ A **production-level SaaS CRM platform** designed for managing leads, sales team
 <img src="https://img.icons8.com/color/60/css3.png" title="CSS3"/>
 <img src="https://img.icons8.com/color/60/javascript.png" title="JavaScript"/>
 <img src="https://img.icons8.com/ultraviolet/60/react.png" title="React.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" title="Next.js"/>
 <img src="https://img.icons8.com/color/60/nodejs.png" title="Node.js"/>
 <img src="https://img.icons8.com/ios/60/express-js.png" title="Express.js"/>
 <img src="https://img.icons8.com/color/60/mongodb.png" title="MongoDB"/>
@@ -98,7 +99,6 @@ A **production-level SaaS CRM platform** designed for managing leads, sales team
 <img src="https://img.icons8.com/color/60/visual-studio-code-2019.png" title="VS Code"/>
 
 </p>
-
 ---
 
 # 📊 GitHub Stats
