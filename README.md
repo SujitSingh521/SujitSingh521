@@ -82,6 +82,32 @@ A **production-level SaaS CRM platform** designed for managing leads, sales team
 
 # 🛠️ Tech Stack
 
+### ⚙ Backend
+Node.js  
+Express.js  
+MongoDB  
+REST APIs  
+
+### 🎨 Frontend
+React.js  
+Next.js  
+JavaScript (ES6+)  
+Tailwind CSS  
+CSS3  
+HTML5  
+
+### 🔧 Version Control
+Git  
+GitHub  
+
+### ☁ Deployment
+Vercel  
+Render  
+
+---
+
+# 💻 Technologies & Tools
+
 <p align="center">
 
 <img src="https://img.icons8.com/color/60/html-5.png"/>
