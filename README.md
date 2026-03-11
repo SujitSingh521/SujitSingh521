@@ -105,23 +105,22 @@ Vercel
 Render  
 
 ---
-
 # 💻 Technologies & Tools
 
 <p align="center">
 
-<img src="https://img.icons8.com/color/60/html-5.png"/>
-<img src="https://img.icons8.com/color/60/css3.png"/>
-<img src="https://img.icons8.com/color/60/javascript.png"/>
-<img src="https://img.icons8.com/ultraviolet/60/react.png"/>
-<img src="https://img.icons8.com/color/60/nodejs.png"/>
-<img src="https://img.icons8.com/ios/60/express-js.png"/>
-<img src="https://img.icons8.com/color/60/mongodb.png"/>
-<img src="https://img.icons8.com/color/60/tailwindcss.png"/>
-<img src="https://img.icons8.com/color/60/git.png"/>
-<img src="https://img.icons8.com/glyph-neue/60/github.png"/>
-<img src="https://img.icons8.com/color/60/postman-api.png"/>
-<img src="https://img.icons8.com/color/60/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/60/html-5.png" title="HTML5"/>
+<img src="https://img.icons8.com/color/60/css3.png" title="CSS3"/>
+<img src="https://img.icons8.com/color/60/javascript.png" title="JavaScript"/>
+<img src="https://img.icons8.com/ultraviolet/60/react.png" title="React.js"/>
+<img src="https://img.icons8.com/color/60/nodejs.png" title="Node.js"/>
+<img src="https://img.icons8.com/ios/60/express-js.png" title="Express.js"/>
+<img src="https://img.icons8.com/color/60/mongodb.png" title="MongoDB"/>
+<img src="https://img.icons8.com/color/60/tailwindcss.png" title="Tailwind CSS"/>
+<img src="https://img.icons8.com/color/60/git.png" title="Git"/>
+<img src="https://img.icons8.com/glyph-neue/60/github.png" title="GitHub"/>
+<img src="https://img.icons8.com/color/60/postman-api.png" title="Postman"/>
+<img src="https://img.icons8.com/color/60/visual-studio-code-2019.png" title="VS Code"/>
 
 </p>
 
