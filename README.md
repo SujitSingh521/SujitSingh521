@@ -1,6 +1,6 @@
-<h1 align="center" style="color:#3498db;">👋 Hi, I'm <span style="color:#e74c3c;">Sujit Kumar Singh</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#e74c3c;">Sujit Kumar Singh</span></h1>
 
-<h3 align="center" style="color:#2ecc71;">Full Stack Developer (MERN Stack) | React.js | Node.js | MongoDB | Next.js</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | React.js | Node.js | MongoDB | Next.js</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sujitsingh521&label=Profile%20views&color=0e75b6&style=flat"/>
@@ -13,42 +13,49 @@ style="width:100%; max-width:800px; border-radius:10px; height:600px;" />
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-I am a **Full Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
+💻 I am a **Full Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
 
-I completed my **Full Stack Development training from Red & White Multimedia Education, Gujarat** and successfully completed my **Full Stack Developer Internship at Tenacious Techies, Surat**.
+🎓 Completed **Full Stack Development training from Red & White Multimedia Education, Gujarat**
 
-During my internship, I worked on the **end-to-end development of a production-ready Multi-Tenant CRM (Customer Relationship Management) system**, contributing to both **frontend and backend development**.
+🏢 Completed **Full Stack Developer Internship at Tenacious Techies, Surat**
 
-I enjoy building **scalable web applications, REST APIs, and solving real-world business problems through code**.
+🚀 Worked on the **end-to-end development of a production-ready Multi-Tenant CRM system**
+
+⚡ Passionate about building **scalable web applications and solving real-world problems through code**
 
 ---
 
 # 💼 Internship Experience
 
-**Full Stack Developer Intern**  
-Tenacious Techies, Surat  
-**September 2025 – February 2026**
+🏢 **Full Stack Developer Intern**  
+📍 Tenacious Techies, Surat  
+📅 September 2025 – February 2026
 
 Worked on the development of a **Multi-Tenant SaaS CRM platform**.
 
-### Key Contributions
+### 🔑 Key Contributions
 
-• Implemented **JWT Authentication and Role-Based Access Control**  
-• Built responsive UI using **Next.js and Tailwind CSS**  
-• Developed backend services using **Node.js and Express.js**  
-• Designed database models using **MongoDB and Mongoose**  
-• Implemented **secure multi-tenant data isolation architecture**  
-• Developed modules for:
+🔐 Implemented **JWT Authentication and Role-Based Access Control**
 
-- Leads Management
-- Salesperson Management
-- Master Modules (Categories, Products, Lead Status, Lead Source, Tags)
-- Notification System
-- Email Integration
-- Comment System
-- WhatsApp API Integration
+🎨 Built responsive UI using **Next.js and Tailwind CSS**
+
+⚙️ Developed backend services using **Node.js and Express.js**
+
+🗄 Designed database models using **MongoDB and Mongoose**
+
+🏢 Implemented **secure multi-tenant data isolation architecture**
+
+### 🧩 Modules Developed
+
+📊 Leads Management  
+👨‍💼 Salesperson Management  
+📂 Master Modules (Categories, Products, Lead Status, Lead Source, Tags)  
+🔔 Notification System  
+📧 Email Integration  
+💬 Comment System  
+📱 WhatsApp API Integration  
 
 ---
 
@@ -58,65 +65,61 @@ Worked on the development of a **Multi-Tenant SaaS CRM platform**.
 
 A **production-level SaaS CRM platform** designed for managing leads, sales teams, and customer communication.
 
-### Tech Stack
+### 🧑‍💻 Tech Stack
 
-React.js  
-Next.js  
-Node.js  
-Express.js  
-MongoDB  
-Tailwind CSS  
+⚛ React.js  
+▲ Next.js  
+🟢 Node.js  
+🚂 Express.js  
+🍃 MongoDB  
+🎨 Tailwind CSS  
 
-### Core Features
+### ✨ Core Features
 
-✔ Authentication System (Login / Signup)  
-✔ Role-Based Access Control (Admin / Salesperson)  
-✔ Lead Management System  
-✔ Salesperson Management  
-✔ Master Modules (Categories, Products, Lead Sources, Tags)  
-✔ Notification System  
-✔ Email Communication System  
-✔ WhatsApp API Integration  
-✔ Comment & Activity Tracking  
-✔ Secure Multi-Tenant Architecture  
+🔐 Authentication System (Login / Signup)  
+👥 Role-Based Access Control (Admin / Salesperson)  
+📊 Lead Management System  
+👨‍💼 Salesperson Management  
+📂 Master Modules (Categories, Products, Lead Sources, Tags)  
+🔔 Notification System  
+📧 Email Communication System  
+📱 WhatsApp API Integration  
+💬 Comment & Activity Tracking  
+🏢 Secure Multi-Tenant Architecture  
 
 ---
 
 # 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
-HTML5  
-CSS3  
-JavaScript  
-React.js  
-Next.js  
-Tailwind CSS  
+<img src="https://img.icons8.com/color/48/html-5.png"/>
+<img src="https://img.icons8.com/color/48/css3.png"/>
+<img src="https://img.icons8.com/color/48/javascript.png"/>
+<img src="https://img.icons8.com/ultraviolet/48/react.png"/>
+<img src="https://img.icons8.com/color/48/tailwindcss.png"/>
 
-### Backend
+### ⚙️ Backend
 
-Node.js  
-Express.js  
-REST APIs  
-JWT Authentication  
+<img src="https://img.icons8.com/color/48/nodejs.png"/>
+<img src="https://img.icons8.com/ios/48/express-js.png"/>
 
-### Database
+### 🗄 Database
 
-MongoDB  
-Mongoose  
+<img src="https://img.icons8.com/color/48/mongodb.png"/>
 
-### Tools
+### 🧰 Tools
 
-Git  
-GitHub  
-Postman  
-VS Code  
+<img src="https://img.icons8.com/color/48/git.png"/>
+<img src="https://img.icons8.com/glyph-neue/48/github.png"/>
+<img src="https://img.icons8.com/color/48/postman-api.png"/>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
 
-### Deployment
+### ☁ Deployment
 
-Vercel  
-Render  
-Netlify  
+▲ Vercel  
+🚀 Render  
+🌐 Netlify  
 
 ---
 
@@ -134,7 +137,7 @@ Netlify
 
 ---
 
-# 🚀 GitHub Activity
+# 📈 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujitsingh521&theme=react-dark&area=true&hide_border=true"/>
@@ -164,13 +167,14 @@ Netlify
 
 # 🎯 Open To Opportunities
 
-I am currently **open to Full Stack Developer (MERN Stack) opportunities**.
+💼 I am currently **open to Full Stack Developer (MERN Stack) opportunities**.
 
-If you have any suitable role, feel free to connect with me.
+🤝 If you have any suitable role, feel free to connect with me.
 
 ---
 
 # 🎯 Fun Facts
 
-🔭 I enjoy solving real-world problems through code  
-🎨 I enjoy sketching and photography
+🔭 I enjoy solving **real-world problems through code**
+
+🎨 I enjoy **sketching and photography**
