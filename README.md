@@ -65,15 +65,6 @@ Worked on the development of a **Multi-Tenant SaaS CRM platform**.
 
 A **production-level SaaS CRM platform** designed for managing leads, sales teams, and customer communication.
 
-### 🧑‍💻 Tech Stack
-
-⚛ React.js  
-▲ Next.js  
-🟢 Node.js  
-🚂 Express.js  
-🍃 MongoDB  
-🎨 Tailwind CSS  
-
 ### ✨ Core Features
 
 🔐 Authentication System (Login / Signup)  
@@ -91,35 +82,22 @@ A **production-level SaaS CRM platform** designed for managing leads, sales team
 
 # 🛠️ Tech Stack
 
-### 🎨 Frontend
+<p align="center">
 
-<img src="https://img.icons8.com/color/48/html-5.png"/>
-<img src="https://img.icons8.com/color/48/css3.png"/>
-<img src="https://img.icons8.com/color/48/javascript.png"/>
-<img src="https://img.icons8.com/ultraviolet/48/react.png"/>
-<img src="https://img.icons8.com/color/48/tailwindcss.png"/>
+<img src="https://img.icons8.com/color/60/html-5.png"/>
+<img src="https://img.icons8.com/color/60/css3.png"/>
+<img src="https://img.icons8.com/color/60/javascript.png"/>
+<img src="https://img.icons8.com/ultraviolet/60/react.png"/>
+<img src="https://img.icons8.com/color/60/nodejs.png"/>
+<img src="https://img.icons8.com/ios/60/express-js.png"/>
+<img src="https://img.icons8.com/color/60/mongodb.png"/>
+<img src="https://img.icons8.com/color/60/tailwindcss.png"/>
+<img src="https://img.icons8.com/color/60/git.png"/>
+<img src="https://img.icons8.com/glyph-neue/60/github.png"/>
+<img src="https://img.icons8.com/color/60/postman-api.png"/>
+<img src="https://img.icons8.com/color/60/visual-studio-code-2019.png"/>
 
-### ⚙️ Backend
-
-<img src="https://img.icons8.com/color/48/nodejs.png"/>
-<img src="https://img.icons8.com/ios/48/express-js.png"/>
-
-### 🗄 Database
-
-<img src="https://img.icons8.com/color/48/mongodb.png"/>
-
-### 🧰 Tools
-
-<img src="https://img.icons8.com/color/48/git.png"/>
-<img src="https://img.icons8.com/glyph-neue/48/github.png"/>
-<img src="https://img.icons8.com/color/48/postman-api.png"/>
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-
-### ☁ Deployment
-
-▲ Vercel  
-🚀 Render  
-🌐 Netlify  
+</p>
 
 ---
 
