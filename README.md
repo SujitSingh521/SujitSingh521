@@ -21,9 +21,9 @@ style="width:100%; max-width:800px; border-radius:10px; height:600px;" />
 
 💻 I am a **Full Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
 
-🎓 Completed **Full Stack Development training from Red & White Multimedia Education, Surat, Gujarat**
+🎓 Trained in **Full Stack Development at Red & White Multimedia Education, Surat, Gujarat**
 
-🏢 Completed **Full Stack Developer Internship at Tenacious Techies, Surat, Gujarat**
+🏢 Worked as a **Full Stack Developer Intern at Tenacious Techies, Surat, Gujarat**
 
 🚀 Worked on the **end-to-end development of a production-ready Multi-Tenant CRM system**
 
