@@ -160,7 +160,7 @@ A **production-level SaaS CRM platform** designed for managing leads, sales team
 
 🔭 I enjoy solving **real-world problems through code**
 
-🎨 I enjoy **sketching and photography**
+🚀 I enjoy building **scalable and user-friendly web applications**
 
 ---
 
